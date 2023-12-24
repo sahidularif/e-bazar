@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Nike Dunk Low",
+    "description": "Throwback hoops flair shines bright with this Dunk Low. Created for the hardwood but taken to the streets, this sneaker icon returns with a durable leather upper and starry accents for cosmic style with every step. Its padded, low-cut collar lets you take your game anywhere—in comfort.",
+    "price": 129,
+    "color": [
+      {
+        "white": "#fff",
+        "black": "#000",
+        "red": "#FF0000"
+      }
+    ],
+    "size": [
+      "Medium", "Small", "Large"
+    ],
+    "images": [
+      "hhttps://static.nike.com/a/images/t_default/158398b2-7d32-4746-add3-63418f3a9885/dunk-low-cpHbZv.png",
+      "https://static.nike.com/a/images/t_default/e8589038-469e-477e-97ec-639f64fcaf12/dunk-low-cpHbZv.png",
+      "https://static.nike.com/a/images/t_default/b3336c86-2859-4e6a-9282-646e6f3eb698/dunk-low-cpHbZv.png"
+    ]
+  },
+  {
+    "title": "Air Max 97",
+    "description": "Push your style full speed ahead with the Nike Air Max 97 OG. Its iconic design takes inspiration from water droplets and Japanese bullet trains. Full-length Nike Air cushioning lets you ride in first class comfort.",
+    "price": 170,
+    "color": [
+      {
+        "white": "#fff",
+        "black": "#000",
+        "red": "#FF0000"
+      }
+    ],
+    "size": [
+      "Medium", "Small", "Large"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_default/555b5975-4ff1-4583-aef5-693c9ace95f6/air-max-97-og-mens-shoes-zV9FQs.png",
+      "https://static.nike.com/a/videos/so_2.12/66a0fbbd-9b2d-4d42-994b-7150885925e7/air-max-97-og-mens-shoes-zV9FQs.jpg",
+      "https://static.nike.com/a/images/t_default/55ec7ce8-2c11-40fe-b083-2eabf1f7947f/air-max-97-og-mens-shoes-zV9FQs.png"
+    ]
+  },
+  {
+    "title": "Blazer Mid",
+    "description": "Styled for the ‘70s. Loved in the ‘80s. Classic in the ‘90s. Ready for the future. The Nike Blazer Mid ’77 delivers a timeless design that’s easy to wear. Its unbelievably crisp leather upper breaks in beautifully and pairs with bold retro branding and luscious suede accents for a premium feel. Exposed foam on the tongue and a special midsole finish make it look like you’ve just pulled them from the history books. Go ahead, perfect your outfit.",
+    "price": 109,
+    "color": [
+      {
+        "white": "#fff",
+        "black": "#000",
+        "red": "#FF0000"
+      }
+    ],
+    "size": [
+      "Medium", "Small", "Large"
+    ],
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3d1769cf-c7ad-47e6-95c2-ecc40093e28d/blazer-mid-77-womens-shoes-NPWfjm.png",
+      "https://static.nike.com/a/images/t_default/de6e87d4-d3bf-4294-bfcf-a8395b56f481/blazer-mid-77-womens-shoes-NPWfjm.png",
+      "https://static.nike.com/a/images/t_default/62b7eadd-c822-4c49-88fd-f5af657dad46/blazer-mid-77-womens-shoes-NPWfjm.png"
+    ]
+  },
+    {
+      "title": "Nike Dunk Low",
+      "description": "Throwback hoops flair shines bright with this Dunk Low. Created for the hardwood but taken to the streets, this sneaker icon returns with a durable leather upper and starry accents for cosmic style with every step. Its padded, low-cut collar lets you take your game anywhere—in comfort.",
+      "price": 129,
+      "color": [
+        {
+          "white": "#fff",
+          "black": "#000",
+          "red": "#FF0000"
+        }
+      ],
+      "size": [
+        "Medium", "Small", "Large"
+      ],
+      "images": [
+        "hhttps://static.nike.com/a/images/t_default/158398b2-7d32-4746-add3-63418f3a9885/dunk-low-cpHbZv.png",
+        "https://static.nike.com/a/images/t_default/e8589038-469e-477e-97ec-639f64fcaf12/dunk-low-cpHbZv.png",
+        "https://static.nike.com/a/images/t_default/b3336c86-2859-4e6a-9282-646e6f3eb698/dunk-low-cpHbZv.png"
+      ]
+    },
+    {
+      "title": "Air Max 97",
+      "description": "Push your style full speed ahead with the Nike Air Max 97 OG. Its iconic design takes inspiration from water droplets and Japanese bullet trains. Full-length Nike Air cushioning lets you ride in first class comfort.",
+      "price": 170,
+      "color": [
+        {
+          "white": "#fff",
+          "black": "#000",
+          "red": "#FF0000"
+        }
+      ],
+      "size": [
+        "Medium", "Small", "Large"
+      ],
+      "images": [
+        "https://static.nike.com/a/images/t_default/555b5975-4ff1-4583-aef5-693c9ace95f6/air-max-97-og-mens-shoes-zV9FQs.png",
+        "https://static.nike.com/a/videos/so_2.12/66a0fbbd-9b2d-4d42-994b-7150885925e7/air-max-97-og-mens-shoes-zV9FQs.jpg",
+        "https://static.nike.com/a/images/t_default/55ec7ce8-2c11-40fe-b083-2eabf1f7947f/air-max-97-og-mens-shoes-zV9FQs.png"
+      ]
+    },
+    {
+      "title": "Blazer Mid",
+      "description": "Styled for the ‘70s. Loved in the ‘80s. Classic in the ‘90s. Ready for the future. The Nike Blazer Mid ’77 delivers a timeless design that’s easy to wear. Its unbelievably crisp leather upper breaks in beautifully and pairs with bold retro branding and luscious suede accents for a premium feel. Exposed foam on the tongue and a special midsole finish make it look like you’ve just pulled them from the history books. Go ahead, perfect your outfit.",
+      "price": 109,
+      "color": [
+        {
+          "white": "#fff",
+          "black": "#000",
+          "red": "#FF0000"
+        }
+      ],
+      "size": [
+        "Medium", "Small", "Large"
+      ],
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3d1769cf-c7ad-47e6-95c2-ecc40093e28d/blazer-mid-77-womens-shoes-NPWfjm.png",
+        "https://static.nike.com/a/images/t_default/de6e87d4-d3bf-4294-bfcf-a8395b56f481/blazer-mid-77-womens-shoes-NPWfjm.png",
+        "https://static.nike.com/a/images/t_default/62b7eadd-c822-4c49-88fd-f5af657dad46/blazer-mid-77-womens-shoes-NPWfjm.png"
+      ]
+    }
+  ]
+  
